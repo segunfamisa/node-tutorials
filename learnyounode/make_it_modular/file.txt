@@ -1,0 +1,4 @@
+If you're looking for an easy way to count the
+number of newlines in a string,
+recall that a JavaScript String  can be .split()
+into an arr
